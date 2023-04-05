@@ -4,7 +4,7 @@ package com.nomaan.dsa.array;
 public class MaximumDifferenceBtwTwoElements {
     // First approach -- optimized one
     public int maximumDifference(int[] nums) {
-        int res = -1;
+        int res = 0;
         int min = nums[0];
 
         for (int i = 1; i < nums.length; i++) {
