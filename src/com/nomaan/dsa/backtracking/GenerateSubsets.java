@@ -1,4 +1,4 @@
-package com.nomaan.dsa.recursion;
+package com.nomaan.dsa.backtracking;
 
 import java.util.ArrayList;
 import java.util.List;
