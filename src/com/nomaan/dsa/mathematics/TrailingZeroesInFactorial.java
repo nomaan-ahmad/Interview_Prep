@@ -1,6 +1,6 @@
 package com.nomaan.dsa.mathematics;
 
-// https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134
+// https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1
 public class TrailingZeroesInFactorial {
     public static int trailingZeroes(int N){
         int res = 0;
